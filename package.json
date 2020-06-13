@@ -1,0 +1,14 @@
+{
+  "name": "backward-euler-method",
+  "version": "1.0.0",
+  "description": "NSOPDE special assignment on backward euler method",
+  "main": "index.js",
+  "scripts": {
+    "test": "no test command"
+  },
+  "author": "Hemanth Kumar",
+  "license": "MIT",
+  "dependencies": {
+    "mathjs": "^7.0.1"
+  }
+}
